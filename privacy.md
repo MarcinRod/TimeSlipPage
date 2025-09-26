@@ -1,6 +1,6 @@
 # Privacy Policy for TimeSlip
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 26.09.2025
 
 TimeSlip values your privacy. This Privacy Policy explains how we handle your information when you use our app.
 
