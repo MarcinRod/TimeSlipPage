@@ -33,4 +33,4 @@ Any future changes will continue to respect your privacy.
 
 ## Contact Us
 If you have questions about this Privacy Policy, please contact us at:  
-marrod.dev@gmail.com
+marrod.dev @ gmail
